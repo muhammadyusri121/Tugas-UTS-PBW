@@ -66,7 +66,7 @@ body {
 
 .resume .resume_item {
   padding: 25px 0;
-  border-bottom: 2px solid #b1eaff;
+  border-bottom: 2px solid #a76767;
 }
 
 .resume .resume_left .resume_item:last-child,
@@ -104,13 +104,13 @@ body {
 }
 
 .resume .resume_left ul li .data {
-  color: #b1eaff;
+  color: #863232;
 }
 
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 15px;
-  color: #b1eaff;
+  color: #ffb1b1;
   justify-content: space-between;
   align-items: center;
 }
